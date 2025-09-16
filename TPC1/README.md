@@ -10,3 +10,5 @@ O TPC1 consistiu na realização de dois exercícios:
 ## Resultados
 * Imagem do 10 do Maze
 ![Exercício 10 do Maze](./10Maze.png)
+
+* Imagem da figura do comboio
