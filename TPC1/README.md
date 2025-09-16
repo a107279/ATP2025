@@ -9,4 +9,4 @@ O TPC1 consistiu na realização de dois exercícios:
 
 ## Resultados
 * Imagem do 10 do Maze
-! [foto] (10 Maze.png)
+! [foto](10 Maze.png)
