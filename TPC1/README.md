@@ -17,7 +17,11 @@ O TPC1 consistiu na realização de dois exercícios:
 ![Comboio](./Comboio.png)
 
 * Código usado para desenhar o comboio
+  
   ![Código foto 1](./C1.png)
-  ![Código foto 2](./C2.png)  
+  
+  ![Código foto 2](./C2.png)
+  
   ![Código foto 3](./C3.png)
+  
   ![Código foto 4](./C4.png)
