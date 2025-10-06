@@ -4,6 +4,7 @@
 
 ## Resumo
 O TPC3 consistiu na criação de uma aplicação em Python que coloca no monitor o seguinte menu:
+
     * (1) Criar Lista 
     * (2) Ler Lista
     * (3) Soma
