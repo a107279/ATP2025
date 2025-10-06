@@ -1,5 +1,9 @@
-### TPC3: Aplicação para manipulação de listas de inteiros
-- Crie uma aplicação em Python que coloca no monitor o seguinte menu:
+# TPC3: Aplicação para manipulação de listas de inteiros
+
+## Andreia Machado Cardoso a107279
+
+## Resumo
+O TPC3 consistiu na criação de uma aplicação em Python que coloca no monitor o seguinte menu:
     * (1) Criar Lista 
     * (2) Ler Lista
     * (3) Soma
